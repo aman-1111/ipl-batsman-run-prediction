@@ -56,7 +56,7 @@ The model performs reasonably well considering the unpredictability of T20 crick
 
 ## ✍️ Author
 
-- **Aman Chaurasia** – [LinkedIn](https://www.linkedin.com/in/theamanchaurasia07/) | [GitHub](https://github.com/aman-1111)
+- **Aman Chaurasia** – [LinkedIn](https://www.linkedin.com/in/amanchaurasia07/) | [GitHub](https://github.com/aman-1111)
 
 ---
 
